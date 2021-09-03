@@ -103,7 +103,7 @@ body{
 .wrapper .main_content .header{
     padding: 90px;
     flex: 1.5;
-    font-size: 83px;
+    font-size: 86px;
     font-weight: 550;
 
 }
@@ -115,6 +115,7 @@ body{
 
 
 .container{
+    position: sticky;
     display:flex;
     width: 100%;
     margin-left: 35px;
